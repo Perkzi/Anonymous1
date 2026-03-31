@@ -16,7 +16,7 @@ The consistent ranking across all four dimensions suggests that VIOLIN effective
 
 [📊 View Sensitivity Analysis Results (PDF)](./image/sensitivity.pdf)
 
-We evaluate **Color Purity** (left) and **Color Precision** (right) by biasing weights. The **Uniform** bars represent the equal-weight baseline $w_i = 1/N$, while other bars represent schemes where a single weight $w_i$ is increased (e.g., to $0.8$) and the remainder is split uniformly. The largely stable model rankings demonstrate that VIOLIN is robust and insensitive to specific weight tuning.
+We evaluate **Color Purity** (left) and **Color Precision** (right) by biasing weights. The **Uniform** bars represent the equal-weight baseline $w_i = 1/N$, while other bars represent schemes where a single weight $w_i$ is increased (e.g., to 0.8) and the remainder is split uniformly. The largely stable model rankings demonstrate that VIOLIN is robust and insensitive to specific weight tuning.
 
 
 ### Fine-tuning Results
